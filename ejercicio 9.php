@@ -7,4 +7,5 @@ $descuento = $sueldo_base * 0.20;
 $salario_neto = $sueldo_base - $descuento;
 
 echo "Su sueldo total es de: " . number_format($salario_neto, 0) . " pesos";
+
 ?>
