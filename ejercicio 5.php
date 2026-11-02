@@ -16,7 +16,4 @@ $calificacionfinal = $calificacionparcial + $examenfinal + $trabajofinal;
 echo " Su calificación final es de : " . number_format ($calificacionfinal, 1);
 
 
-
-
-
 ?>
