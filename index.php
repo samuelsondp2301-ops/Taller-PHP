@@ -1,9 +1,9 @@
 <?php
 
-$plata1 = 1000;
-$plata2= 5450;
+$persona1 = 20;
+$persona2 = 18;
+$persona3 = 32;
 
-$total = $plata1 + $plata2;
-
-echo "el total de su plata es: " . $total;
+$promedio = ($persona1 + $persona2 + $persona3) / 3;
+echo " El promedio de edad de las tres personas es de "  . $promedio;
 ?>
